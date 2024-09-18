@@ -1,0 +1,3 @@
+[submodule "DeployTest"]
+	path = DeployTest
+	url = https://github.com/mnhrk15/DeployTest.git
